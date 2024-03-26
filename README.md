@@ -1,7 +1,7 @@
-# Autonomoun-Car
+# Autonomous-Car
 Develop Autonomous Car with RaspberryPi
 
-# 1. RaspberryPi Set up
+# 1. RaspberryPi4 Set up
 
 # 2. 
 
