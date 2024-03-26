@@ -22,7 +22,7 @@ Develop Autonomous Car with RaspberryPi
 lane = cv.imread('lane.jpg')
 ```
 
-<img width="640" alt="canny" src="https://github.com/hyunsoi/Autonomoun-Car/assets/102220333/d99d7ebf-d6d8-4427-9a42-38ffe4c37403">
+<img width="480" alt="canny" src="https://github.com/hyunsoi/Autonomoun-Car/assets/102220333/d99d7ebf-d6d8-4427-9a42-38ffe4c37403">
 
 ## 2.2 Set IMG GrayScale
 ```python
