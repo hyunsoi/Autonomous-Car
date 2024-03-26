@@ -5,7 +5,7 @@ Develop Autonomous Car with RaspberryPi
 
 # 2. Detecting Road Lane
 
-## Road Eetecting Flow
+## Road Detecting Process
 |No.|Content|
 |------|---|
 |1.|Read Img [Video]|
