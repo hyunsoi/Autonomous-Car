@@ -3,9 +3,9 @@ Develop Autonomous Car with RaspberryPi
 
 # 1. RaspberryPi4 Set up
 
-# 2. Detecting Road Lane
+# 2. Detecting Lane
 
-## Road Detecting Process
+## Lane Detecting Process
 |No.|Content|
 |------|---|
 |1.|Read Img [Video]|
